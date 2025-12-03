@@ -19,7 +19,7 @@ O objetivo é:
 
 ---
 
-# 2. 🏛️ Estrutura Organizacional no ClickUp
+# 2. Estrutura Organizacional no ClickUp
 
 ## 2.1 Grupo Principal
 
@@ -45,7 +45,7 @@ Cada espaço de projeto contém listas e fluxos organizados conforme este docume
 
 ---
 
-# 3. 🗃️ Organização das Listas de Tarefas
+# 3. Organização das Listas de Tarefas
 
 Dentro de cada espaço de projeto, são criadas listas específicas. As principais são:
 
@@ -64,7 +64,7 @@ Cada lista contém as tarefas aprovadas na **Reunião de Backlog da Sprint**.
 
 ---
 
-## 3.2 🔧 Lista de Revisão Técnica
+## 3.2 Lista de Revisão Técnica
 
 Lista destinada a:
 
