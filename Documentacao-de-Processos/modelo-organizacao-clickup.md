@@ -1,11 +1,11 @@
-# 🗂️ Modelo de Organização do Setor de Inovação da Sitelbra no ClickUp
+# Modelo de Organização do Setor de Inovação da Sitelbra no ClickUp
 
 Versão: 1.0  
 Responsável: Janaina Rocha  
 
 ---
 
-# 1. 🎯 Objetivo
+# 1. Objetivo
 
 Este documento define o **modelo organizacional, o fluxo de trabalho e os critérios de padronização** utilizados pelo setor de Inovação da Sitelbra na gestão das atividades da vertical de Software, utilizando a **versão gratuita do ClickUp**.
 
@@ -51,7 +51,7 @@ Dentro de cada espaço de projeto, são criadas listas específicas. As principa
 
 ---
 
-## 3.1 📌 Lista de Sprint
+## 3.1 Lista de Sprint
 
 Criada para **cada ciclo de desenvolvimento**, seguindo o padrão:
 
@@ -80,7 +80,7 @@ Exemplos:
 
 ---
 
-## 3.3 📥 Lista Backlog do Produto
+## 3.3 Lista Backlog do Produto
 
 Serve como um repositório central para:
 
@@ -93,7 +93,7 @@ Durante a **Reunião de Priorização**, os itens são selecionados para compor 
 
 ---
 
-# 4. 🔁 Fluxo Operacional das Tarefas (Kanban)
+# 4. Fluxo Operacional das Tarefas (Kanban)
 
 O fluxo é composto pelas seguintes etapas:
 
@@ -140,7 +140,7 @@ Deve conter:
 - Prints, vídeos ou logs (quando aplicável)  
 - Critério de aceitação violado  
 
-### 🔄 Fluxo após registrar o Bug
+### Fluxo após registrar o Bug
 
 1. QA move a tarefa para **Bug**  
 2. Desenvolvedor:  
@@ -161,7 +161,7 @@ Deve conter:
 
 ---
 
-# 4.1 🖼 Fluxograma do Processo
+# 4.1 Fluxograma do Processo
 
 Quando você enviar a imagem, ela será exibida aqui:
 
