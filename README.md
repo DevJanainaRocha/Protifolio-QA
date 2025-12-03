@@ -11,16 +11,21 @@ Todo o conteúdo deste portfólio foi **criado por mim**, anonimizado quando nec
 portfolio-qa-janaina/
 │
 ├── 01-planos-de-teste/
-│   ├── plano-de-testes-nfn.md
+│ ├── plano-de-testes-nfn.md
 │
 ├── 02-casos-de-teste/
-│   ├── ct-nfn-gestao-de-eventos.md
+│ ├── ct-nfn-gestao-de-eventos.md
 │
 ├── 03-status-reports/
-│   ├── sprint-02-status-report-nfn.md
+│ ├── sprint-02-status-report-nfn.md
 │
-└── 04-evidencias/
-
+├── 04-evidencias/
+│ # prints e anexos relacionados aos testes
+│
+└── 05-documentacao-de-processos/
+├── modelo-organizacao-clickup.md
+└── imagens/
+└── fluxograma-processo-clickup.png # (será adicionado)
 
 ---
 
@@ -68,9 +73,11 @@ Este portfólio inclui artefatos produzidos para o projeto **NFN**, contemplando
 
 - Plano de testes  
 - Casos de teste detalhados  
-- Status report de sprint  
+- Status report de sprint
+- Documentação de Processos – Modelo ClickUp
 
-Todos os documentos foram estruturados por mim conforme boas práticas de QA.
+Neste repositório disponibilizo um **Modelo de Organização do Setor de Inovação da Sitelbra no ClickUp**, criado por mim.
+Todos os documentos foram estruturados por mim conforme boas práticas de QA e Gestão de Processos.
 
 ---
 
