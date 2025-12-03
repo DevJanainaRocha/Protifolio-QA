@@ -9,21 +9,21 @@ Todo o conteúdo deste portfólio foi **criado por mim**, anonimizado quando nec
 # Estrutura do Repositório
 Portifolio-QA/
 │
-├── Casos-de-Testes-NFN/
+├── Casos-de-Testes/
 │   ├── dct-nfn.pdf                     # PDF dos casos de teste
 │   └── ct-nfn-gestao-de-eventos.md     # arquivo de casos de teste no GitHub
+│
+├── Documentacao-de-Processos/
+|   ├── modelo-organizacao-clickup.md   # arquivo de modelo de organização no GitHub
+|   └── fluxograma-processo-clickup.pdf # PDF do fluxograma do modelo de organização
 │
 ├── Planejamento-de-Testes/
 │   ├── plano-de-testes-nfn.pdf         # PDF do plano de testes
 │   └── plano-de-testes-nfn.md          # arquivo do plano de testes no GitHub
 │
-├── Status-Report/
-│   ├── sprint-02-status-report-nfn.md  # arquivo de status report no GitHub
-│   └── sprint-02-status-report-nfn.pdf # PDF da mesma documentação
-│
-└── Documentacao-de-Processos/
-    ├── modelo-organizacao-clickup.md   # arquivo de modelo de organização no GitHub
-    └── fluxograma-processo-clickup.pdf # PDF do fluxograma do modelo de organização
+└── Status-Report/
+    ├── sprint-02-status-report-nfn.md  # arquivo de status report no GitHub
+    └── sprint-02-status-report-nfn.pdf # PDF da mesma documentação
 
 
 ---
