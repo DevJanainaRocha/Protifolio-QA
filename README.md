@@ -10,20 +10,16 @@ Todo o conteúdo deste portfólio foi **criado por mim**, anonimizado quando nec
 
 portfolio-qa-janaina/
 │
-├── 01-documentacao-de-requisitos/
-│ ├── requisitos-nfn.md
-│ ├── casos-de-uso-nfn.md
+├── 01-planos-de-teste/
+│   ├── plano-de-testes-nfn.md
 │
-├── 02-planos-de-teste/
-│ ├── plano-de-testes-nfn.md
+├── 02-casos-de-teste/
+│   ├── ct-nfn-gestao-de-eventos.md
 │
-├── 03-casos-de-teste/
-│ ├── ct-nfn-gestao-de-eventos.md
+├── 03-status-reports/
+│   ├── sprint-02-status-report-nfn.md
 │
-├── 04-status-reports/
-│ ├── sprint-02-status-report-nfn.md
-│
-└── evidencias/
+└── 04-evidencias/
 
 
 ---
@@ -70,8 +66,6 @@ Trabalho com foco em:
 
 Este portfólio inclui artefatos produzidos para o projeto **NFN**, contemplando:
 
-- Especificação de requisitos  
-- Casos de uso  
 - Plano de testes  
 - Casos de teste detalhados  
 - Status report de sprint  
