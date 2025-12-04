@@ -15,7 +15,7 @@ Portifolio-QA/
 │
 ├── Documentacao-de-Processos/
 |   ├── modelo-organizacao-clickup.md   # arquivo de modelo de organização no GitHub
-|   └── fluxograma-processo-clickup.pdf # PDF do fluxograma do modelo de organização
+|   └── fluxo_clickup.pdf               # PDF do fluxo Operacional da Vertical de Software no setor de Inovação da Empresa
 │
 ├── Planejamento-de-Testes/
 │   ├── plano-de-testes-nfn.pdf         # PDF do plano de testes
@@ -47,7 +47,7 @@ Trabalho com foco em:
 - Testes Funcionais, Exploratório, Regressão  
 - Planejamento e Estratégia de Testes  
 - Escrita de Casos de Teste e Relatórios de Bugs  
-- Engenharia de Requisitos  
+- Levantamento e Análise de Requisitos  
 - Integração com sistemas biométricos  
 - Análise de UX/UI  
 - Ferramentas: ClickUp, Trello, Planner  
