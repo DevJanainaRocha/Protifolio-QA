@@ -30,15 +30,37 @@ Portifolio-QA/
 
 # Sobre Mim
 
-Sou profissional de Qualidade de Software atuando na estruturação de documentos, validação funcional, análise de requisitos, criação de planos e casos de teste e acompanhamento de sprints.  
-Tenho experiência prática com aplicações Web, Mobile e validações integradas com dispositivos físicos.
+Sou profissional de Qualidade de Software, formada em Análise e Desenvolvimento de Sistemas, e atuo no setor de Inovação com foco em garantir produtos funcionais, estáveis e alinhados às necessidades do usuário.
+Atualmente estou em especialização na área de Engenharia e Qualidade de Software, ampliando meus conhecimentos em práticas modernas de QA, análise e modelagem.
 
-Trabalho com foco em:
+Minha atuação envolve:
 
-- **Qualidade e experiência do usuário**
-- **Processos estruturados**
-- **Validação orientada a requisitos**
-- **Documentação clara e profissional**
+- Validação funcional completa de aplicações Web e Mobile
+
+- Criação e execução de planos e casos de teste
+
+- Análise e levantamento de requisitos
+
+- Acompanhamento de sprints e suporte ao time
+
+- Gestão de atividades no ClickUp
+
+- Apoio como PO (Product Owner) na vertical de software
+
+- Testes e validações integradas com dispositivos físicos
+
+Tenho forte compromisso com:
+
+- Qualidade e experiência do usuário
+
+- Processos estruturados
+
+- Validação orientada a requisitos
+
+- Documentação clara, objetiva e profissional
+
+Paralelamente, estudo Python para aprimorar minha lógica, expandir minhas habilidades técnicas e fortalecer conhecimentos que apoiam o trabalho de QA, automação e engenharia de software.
+Minha jornada é movida pela busca contínua por melhoria, boas práticas e evolução profissional.
 
 ---
 
