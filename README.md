@@ -30,7 +30,7 @@ Portifolio-QA/
 
 # Sobre Mim
 
-Sou Profissional de tecnologia com atuação em Qualidade de Software (QA), análise de requisitos e apoio à gestão de produto, contribuindo para a entrega de soluções alinhadas às necessidades do usuário e aos objetivos do negócio.
+Sou Profissional de tecnologia com atuação em Qualidade de Software (QA), Testes de caixa preta, análise de requisitos e apoio à gestão de produto, contribuindo para a entrega de soluções alinhadas às necessidades do usuário e aos objetivos do negócio.
 
 Minha atuação envolve:
 
