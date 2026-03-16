@@ -30,8 +30,7 @@ Portifolio-QA/
 
 # Sobre Mim
 
-Sou profissional de Qualidade de Software, formada em Análise e Desenvolvimento de Sistemas, e atuo no setor de Inovação com foco em garantir produtos funcionais, estáveis e alinhados às necessidades do usuário.
-Atualmente estou em especialização na área de Engenharia e Qualidade de Software, ampliando meus conhecimentos em práticas modernas de QA, análise e modelagem.
+Sou Profissional de tecnologia com atuação em Qualidade de Software (QA), análise de requisitos e apoio à gestão de produto, contribuindo para a entrega de soluções alinhadas às necessidades do usuário e aos objetivos do negócio.
 
 Minha atuação envolve:
 
